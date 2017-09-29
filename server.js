@@ -1,3 +1,4 @@
+//Mail Function
 var mailFunc = require('./services/mail');
 
 var message = '<p style="color:red">This is HTML content</p>';
